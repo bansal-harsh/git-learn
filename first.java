@@ -6,6 +6,7 @@ public class first {
     String userName = myObj.nextLine();  // Read user input
     System.out.println("Username is: " + userName);  // Output user input
     System.out.println("first git also");
+        System.out.println("second git also")
     }
     
 }
